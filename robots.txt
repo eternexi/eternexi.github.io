@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eternexi.github.io/sitemap.eternexi.gz
+Sitemap: https://eternexi.github.io/app/sitemap.eternexi.gz
+Sitemap: https://eternexi.github.io/assets/sitemap.eternexi.gz
+Sitemap: https://eternexi.github.io/css/sitemap.eternexi.gz
+Sitemap: https://eternexi.github.io/data/sitemap.eternexi.gz
+Sitemap: https://eternexi.github.io/includes/sitemap.eternexi.gz
+Sitemap: https://eternexi.github.io/item/sitemap.eternexi.gz
+Sitemap: https://eternexi.github.io/src/sitemap.eternexi.gz
